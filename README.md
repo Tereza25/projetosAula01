@@ -32,8 +32,8 @@ Será separado grupos de 5 pessoas, cada grupo ficará com o desafio de pensar n
 
 #### 4 - Materiais e recursos
 
-Materiais instrucionais: Slide, Nuvem de palavras (site mentimeter).
-Recursos:  Zoom, Notebook/PC.
+- Materiais instrucionais: Slide, Nuvem de palavras (site mentimeter).
+- Recursos:  Zoom, Notebook/PC.
 
 #### 5 - Avaliação
 
