@@ -22,20 +22,20 @@ Conceituar os fundamentos gerais de gestão na área de projetos dentro de uma O
 
 Como você se sente quando um projeto seu não dá certo? A turma deverá colocar suas respostas no link compartilhado (mentimeter.com), após isso, será exposto a imagem com a nuvem de palavras. Iremos identificar a palavra em destaque e será feita uma breve discussão sobre isso.
 
-#### Problematização - 45 minutos
+#### 2 - Problematização - 45 minutos
 
 Exposição do slide mostrando os assuntos que serão abordados na aula. A aula será expositiva com mais imagens e pouco texto, considerando o foco maior na apresentação verbal do conteúdo e exemplos reais de empresas, a fim de facilitar o entendimento. O conteúdo aborda os conceitos e fundamentos de projetos, desde a elaboração da tarefa, passando pelo escopo, captação de recursos e prazos. Será explicado e exemplificado o que é metodologia ágil, o que é o framework Scrum, mostrando a estrutura, divisão e organização de equipes que aplicam e vivenciam a metodologia no dia a dia.  Haverá a apresentação de algumas ferramentas mais utilizadas por equipes ágeis, o foco especial será na ferramenta Trello.
 
-#### Atividade produtiva - 30 minutos
+#### 3 - Atividade produtiva - 30 minutos
 Será separado grupos de 5 pessoas, cada grupo ficará com o desafio de pensar num processo simples de uma tarefa do seu dia a dia e elaborar um fluxograma considerando suas etapas e símbolos. O objetivo não é de ser uma avaliação mas de promover a aprendizagem prática na elaboração do fluxograma. 
 
 
-#### Materiais e recursos
+#### 4 - Materiais e recursos
 
 Materiais instrucionais: Slide, Nuvem de palavras (site mentimeter).
 Recursos:  Zoom, Notebook/PC.
 
-#### Avaliação
+#### 5 - Avaliação
 
 A avaliação da aula será realizada pela equipe do MINAS PROGRAMAM.
 
