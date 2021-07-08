@@ -1,6 +1,6 @@
-# Fundamentos da Gestão de Projetos
+# AULA 01 - Fundamentos da Gestão de Projetos
 
-Olá, sejam bem-vindas a aula de Projetos! Meu nome é Tereza Oliveira (@Tereza25), e irei acompanhar vocês esta semana.
+Olá, sejam bem-vindas a aula 01 de Projetos! Meu nome é Tereza Oliveira (@Tereza25), e irei acompanhar vocês nessa semana.
 
 -------------------------------------------------
 
