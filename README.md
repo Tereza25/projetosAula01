@@ -2,17 +2,18 @@
 
 Olá minas! Sejam bem-vindas a aula 01 de Projetos, meu nome é Tereza Oliveira (@Tereza25) e irei acompanhar vocês nessa semana.
 
--------------------------------------------------
 
 ### Conteúdo:
 
 - Conceito e etapas de projeto 
-- Análise de processos 
-- Fluxograma 
+- Equipes e metodologia ágil
+- Ferramentas de gestão em projetos
+
 
 ### Objetivo: 
 
-Conceituar os fundamentos gerais de gestão na área de projetos dentro de uma Organização, considerando as etapas de um projeto, desde o escopo, captação de recursos e análise de processos. Apresentar os formatos de equipes de projetos, metodologia ágil e o framework scrum. 
+Conceituar os fundamentos gerais de gestão na área de projetos dentro de uma Organização, considerando as etapas de um projeto, desde o escopo, captação de recursos e análise de processos. Apresentar os formatos de equipes de projetos, metodologia ágil e o framework Scrum. 
+
 
 
 ### Metodologia
