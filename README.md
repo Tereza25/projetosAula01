@@ -28,7 +28,8 @@ Como você se sente quando um projeto seu não dá certo? A turma deverá coloca
 Exposição do slide mostrando os assuntos que serão abordados na aula. A aula será expositiva com mais imagens e pouco texto, considerando o foco maior na apresentação verbal do conteúdo e exemplos reais de empresas, a fim de facilitar o entendimento. O conteúdo aborda os conceitos e fundamentos de projetos, desde a elaboração da tarefa, passando pelo escopo, captação de recursos e prazos. Será explicado e exemplificado o que é metodologia ágil, o que é o framework Scrum, mostrando a estrutura, divisão e organização de equipes que aplicam e vivenciam a metodologia no dia a dia.  Haverá a apresentação de algumas ferramentas mais utilizadas por equipes ágeis, o foco especial será na ferramenta Trello.
 
 #### 3 - Atividade produtiva - 30 minutos
-Será separado grupos de 5 pessoas, cada grupo ficará com o desafio de pensar num processo simples de uma tarefa do seu dia a dia e elaborar um fluxograma considerando suas etapas e símbolos. O objetivo não é de ser uma avaliação mas de promover a aprendizagem prática na elaboração do fluxograma. 
+
+A atividade será experimentar a ferramenta Trello, as alunas deverão criar uma conta e se ambientalizar com a ferramenta.
 
 
 #### 4 - Materiais e recursos
